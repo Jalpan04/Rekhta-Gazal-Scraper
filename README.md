@@ -1,5 +1,7 @@
 # Rekhta Ghazal Scraper
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Rekhta-Gazal-Scraper) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Rekhta-Gazal-Scraper) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Overview
 
 This tool is a specialized web scraper designed to collect the complete collection of Ghazals for any given poet from Rekhta.org. It is engineered for research and data science purposes, creating a clean, structured dataset suitable for Natural Language Processing (NLP) or authorship attribution tasks.
